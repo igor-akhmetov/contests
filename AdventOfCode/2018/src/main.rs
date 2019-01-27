@@ -1,7 +1,7 @@
 extern crate aoc;
 
-use aoc::day13;
+use aoc::day18;
 
 fn main() {
-    println!("{:?}", day13::day13_2());
+    println!("{:?}", day18::day18_2());
 }
